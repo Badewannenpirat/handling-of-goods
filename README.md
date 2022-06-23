@@ -7,5 +7,4 @@
 
 2.  What hard- and software am I using (so far)?
 
-    Hardware  MacBook Air M1
-    Software  PgAdmin4, Visual Studio Code, Atom, Git, iTerm2
+    MacBook Air M1, PgAdmin4, Visual Studio Code, Atom, Git, iTerm2
